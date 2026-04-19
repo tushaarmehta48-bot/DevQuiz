@@ -47,7 +47,7 @@ const Footer = () => {
           <p>Follow my journey and stay inspired:</p>
           <div className="flex gap-5 mt-2 text-2xl">
             <a
-              href="mailto:bantichouhan610@gmail.com"
+              href="mailto:tushaarmehta48@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition"
@@ -55,7 +55,7 @@ const Footer = () => {
               <FaEnvelope />
             </a>
             <a
-              href="https://www.linkedin.com/in/banti-chouhan/"
+              href="https://www.linkedin.com/in/tushar-mehta-b5a70b36b"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition"
@@ -63,7 +63,7 @@ const Footer = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/chouhanjibanti"
+              href="https://github.com/tushaarmehta48-bot"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition"
@@ -86,7 +86,7 @@ const Footer = () => {
       <div className="text-center py-4 text-sm text-gray-500">
         © {new Date().getFullYear()}{" "}
         <span className="font-semibold text-primary">DevQuest</span>.  
-        Built with ❤️ by <span className="text-primary font-semibold">Banti Chouhan</span>.
+        Built with ❤️ by <span className="text-primary font-semibold">Tushar Mehta</span>.
       </div>
     </footer>
   );
